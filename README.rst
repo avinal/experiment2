@@ -1,3 +1,6 @@
+.. toctree ::
+   :name: hello
+   
 
 Merge two pdf Files
 ===================
