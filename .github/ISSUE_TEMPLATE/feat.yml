@@ -20,7 +20,7 @@ body:
       description: A clear and consise description of what you want to happen.
       placeholder: We can do [...]
     validations:
-      required: false
+      required: true
 
   - type: textarea
     id: alternatives

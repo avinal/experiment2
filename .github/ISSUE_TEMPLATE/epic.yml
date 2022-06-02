@@ -31,7 +31,7 @@ body:
       label: Action Items
       description: Please check the following
       options:
-        - label: Scope of the current demo is necessary to fir in the prototype boundaries
+        - label: Scope of the current demo is necessary to fit in the prototype boundaries
           required: true
         - label: Contribute to the final demo script and recording
 
@@ -45,3 +45,5 @@ body:
         - [ ] (Example) Add WidgetController
         - [ ] (Example) **stretch-goal:** Add Widgets to `kubectl kcp` plugin
         - Out-of-scope (prototype x): Send Widgets to space
+    validations:
+      required: false
